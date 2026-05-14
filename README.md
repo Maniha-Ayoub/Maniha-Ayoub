@@ -30,10 +30,10 @@ Email: manihaayoub9@gmail.com
 ---
 
 ## 🌟 Goals
-Build impactful AI applications
-Become a skilled Software Engineer
-Improve open-source contributions
-Learn advanced full-stack development
+- Build impactful AI applications
+- Become a skilled Software Engineer
+- Improve open-source contributions
+- Learn advanced full-stack development
 
 ---
 
