@@ -7,14 +7,6 @@
 
 ---
 
-## 🔥 About Me
-🎓 BS-IT Student at University of Layyah
-🔭 I’m currently working on: **AI-based projects / Android Projects**
-👯 I’m looking to collaborate on: **Android + AI projects**
-📚 Currently improving my development and problem-solving skills
-
----
-
 ## 🛠️ Tech Stack
 Languages: Java, Python, HTML, CSS, SQL  
 Mobile: Android Studio, Java/XML  
