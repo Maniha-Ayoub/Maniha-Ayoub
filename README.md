@@ -1,4 +1,4 @@
-Maniha Ayoub here!
+## Maniha Ayoub here!
 
 💻 A passionate Software Developer | Android Developer | AI Enthusiast  
 🎓 Student of Information Technology  
@@ -25,6 +25,7 @@ Tools: Android studio, GitHub, VS Code
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maniha-Ayoub&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maniha-Ayoub&layout=compact&theme=tokyonight)
 
 ---
