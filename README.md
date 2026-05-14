@@ -1,5 +1,5 @@
 ## Maniha Ayoub here!
-
+## 👩‍💻 About Me
 💻 A passionate Software Developer | Android Developer | AI Enthusiast  
 🎓 Student of Information Technology  
 🚀 Currently working on Android apps and AI-based projects  
@@ -26,6 +26,14 @@ Tools: Android studio, GitHub, VS Code
 LinkedIn: https://www.linkedin.com/in/maniha-ayoub  
 GitHub: https://github.com/Maniha-Ayoub  
 Email: manihaayoub9@gmail.com  
+
+---
+
+## 🌟 Goals
+Build impactful AI applications
+Become a skilled Software Engineer
+Improve open-source contributions
+Learn advanced full-stack development
 
 ---
 
