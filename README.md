@@ -8,10 +8,10 @@
 ---
 
 ## 🛠️ Tech Stack
-Languages: Java, Python, HTML, CSS, SQL  
-Mobile: Android Studio, Java/XML  
-Backend: Flask, REST APIs  
-Tools: Android studio, GitHub, VS Code  
+- Languages: Java, Python, HTML, CSS, SQL  
+- Mobile: Android Studio, Java/XML  
+- Backend: Flask, REST APIs  
+- Tools: Android studio, GitHub, VS Code  
 
 ---
 
