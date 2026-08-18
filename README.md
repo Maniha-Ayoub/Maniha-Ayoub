@@ -2,8 +2,8 @@
 ## 👩‍💻 About Me
 💻 A passionate Software Developer | Android Developer | AI Enthusiast  
 🎓 Student of Information Technology  
-🚀 Currently working on Android apps and AI-based projects  
-🌱 Learning Flutter, Flask, and Machine Learning  
+🚀 Currently working on Android apps and AI-based projects 
+Learning Networking and CyberSecurity 
 
 ---
 
